@@ -1,4 +1,4 @@
-# Projet-Python-2A
+# Projet Python pour l'économiste - 2A
 ## Scraping et analyse de données d'hôtels parisiens provenant du site Booking.com.
 Les scripts Python sont écrits dans un fichier Jupyter Notebook.
 
