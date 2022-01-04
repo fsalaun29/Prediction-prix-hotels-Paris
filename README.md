@@ -4,9 +4,9 @@ Florian SALAUN, Yao Pacome KOUAME, Zeena SOW
 
 ## Problématique : Quels facteurs déterminent les tarifs des hôtels parisiens ? 
 
-## Partie 1 : Scraping des données à partir du site Booking.com
+## Partie 1 : Scraping des données à partir du site booking.com
 
-Le notebook "Partie 1.ipynb" est relatif au scraping des données des hôtels parisiens sur Booking.com : 
+Le notebook "Partie 1.ipynb" est relatif au scraping des données des hôtels parisiens sur booking.com : 
 - Dans un premier temps (Partie 1.1) nous avons scrapé l'évolution des tarifs au cours du temps 
 - Dans un second temps (Partie 1.2) nous avons scrapé les caractéristiques des hôtels 
 
