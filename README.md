@@ -18,7 +18,7 @@ Ce dernier aboutit à la création de plusieurs data-frame, regroupant un ensemb
 Le notebook "Partie 2.ipynb" est relatif à l'analyse des effets de temporalité sur les tarifs des hôtels : 
 - Dans un premier temps (Partie 2.1) le jeu de données est nettoyé afin d'être exploitable 
 - Dans un second temps (Partie 2.2) nous avons analysé descriptivement l'évolution des prix en fonction des hôtels
-- Enfin (Partie 2.3) nous avons cherché les facteurs temporels à l'origine des fluctuations de prix
+- Enfin (Partie 2.3) nous avons cherché les facteurs temporels à l'origine des fluctuations gloables des prix
 
 ## Partie 3 :  Modélisation des déterminants des prix 
 
