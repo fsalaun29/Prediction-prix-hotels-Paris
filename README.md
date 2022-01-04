@@ -20,7 +20,7 @@ Le notebook "Partie 2.ipynb" est relatif à l'analyse des effets de temporalité
 - Dans un second temps (Partie 2.2) nous avons analysé descriptivement l'évolution des prix en fonction des hôtels
 - Enfin (Partie 2.3) nous avons cherché les facteurs temporels à l'origine des fluctuations de prix
 
-## Partie 3 :  Modélisation des autres déterminants du prix des hôtels
+## Partie 3 :  Modélisation des déterminants des prix 
 
 Le notebook "Partie 3.ipynb" regroupe une interrogation sur la représentativité des données utilisées dans ce projet ainsi qu'une analyse descriptive puis une modélisation : 
 - Dans un premier temps (Partie 3.1) nous avons étudié la représentativité des données scrapées en les comparant à des données officielles disponibles sur statista.fr, en utilisant nottament un test du chi2
