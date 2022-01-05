@@ -24,7 +24,8 @@ Le notebook "Partie 2.ipynb" est relatif à l'analyse des effets de temporalité
 
 Le notebook "Partie 3.ipynb" regroupe une interrogation sur la représentativité des données utilisées dans ce projet ainsi qu'une analyse descriptive puis une modélisation : 
 - Dans un premier temps (Partie 3.1) nous avons étudié la représentativité des données scrapées en les comparant à des données officielles disponibles sur statista.fr, en utilisant notamment un test du chi2
-- Ensuite (Partie 3.2), nous avons réalisé une analyse descriptive du jeu de données
-- Enfin (Partie 3.3), nous avons construit un modèle de régréssion linéaire multiple afin d'analyser plus finement les effets des caractéristiques des hôtels sur leurs tarifs 
+- Dans un second temps (Partie 3.2), nous avons réalisé une analyse descriptive du jeu de données
+- Ensuite (Partie 3.3), nous avons construit un modèle de régression linéaire multiple afin d'analyser plus finement les effets des caractéristiques des hôtels sur leurs tarifs
+- Enfin (Partie 3.4), nous effectuons des tests sur notre modèle de régression afin d'évaluer sa pertinence et sa robustesse.
 
 
