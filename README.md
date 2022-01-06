@@ -33,4 +33,5 @@ Le notebook "Partie3.ipynb" regroupe une interrogation sur la représentativité
 - Enfin (Partie 3.4), nous effectuons des tests sur notre modèle de régression afin d'évaluer sa pertinence et sa robustesse.
 
 ## Conclusion : 
-...
+L’objectif général de cette étude était d'analyser les facteurs déterminants des tarifs des hôtels parisien. Pour atteindre, cet  objectif,nous avons scrapé sur le site booking.com, des données sur l'évolution des tarifs et certaines caractéristiques des hôtels. Sur la base de ces données, deux approches principales ont été adoptés.D'abord, une analyse de l'evolution des prix et ensuite une modelisation du prix par les facteurs succeptibles de l'influencé a l'aide d'une regression linéaire multiple.
+L'analyse de l'evolution des prix nous a permis de mettre en exergue, 
