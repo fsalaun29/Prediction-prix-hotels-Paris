@@ -15,7 +15,7 @@ Notre travail est scindé en trois grandes parties, dont voici la description :
 
 Les notebook "Partie1" et "Partie1 bis" sont relatifs au scraping des données des hôtels parisiens sur booking.com :
 "Partie1" correspond au code réellement utilisé pour obtenir les bases de données ; "Partie1 bis" en est une version réduite plus rapide à exécuter. 
-** Attention : utiliser le notebook "Partie1 bis" et pas "Partie1" **
+**Attention : utiliser le notebook "Partie1 bis" et pas "Partie1"**
 
 - Dans un premier temps (Partie 1.1), nous avons scrapé l'évolution des tarifs au cours du temps 
 - Dans un second temps (Partie 1.2), nous avons scrapé les caractéristiques des hôtels 
