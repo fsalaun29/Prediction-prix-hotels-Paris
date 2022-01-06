@@ -5,7 +5,7 @@ Florian SALAUN, Yao Pacome KOUAME, Zeena SOW
 ## Problématique : Quels facteurs déterminent les tarifs des hôtels parisiens ? 
 
 ## Introduction 
-...
+
 
 ## Partie 1 : Scraping des données à partir du site booking.com
 
@@ -33,5 +33,7 @@ Le notebook "Partie3.ipynb" regroupe une interrogation sur la représentativité
 - Enfin (Partie 3.4), nous effectuons des tests sur notre modèle de régression afin d'évaluer sa pertinence et sa robustesse.
 
 ## Conclusion : 
-L’objectif général de cette étude était d'analyser les facteurs déterminants des tarifs des hôtels parisien. Pour atteindre, cet  objectif,nous avons scrapé sur le site booking.com, des données sur l'évolution des tarifs et certaines caractéristiques des hôtels. Sur la base de ces données, deux approches principales ont été adoptés.D'abord, une analyse de l'evolution des prix et ensuite une modelisation du prix par les facteurs succeptibles de l'influencé a l'aide d'une regression linéaire multiple.
-L'analyse de l'evolution des prix nous a permis de mettre en exergue, 
+L’objectif général de cette étude était d'analyser les facteurs déterminants des tarifs des hôtels parisiens. Pour atteindre, cet objectif,nous avons scrapé sur le site booking.com, des données sur l'évolution des tarifs et certaines caractéristiques des hôtels. Sur la base de ces données, deux approches principales ont été adoptés.D'abord, une analyse de l'evolution des prix. Ensuite,l'aide d'une regression linéaire multiple, une modelisation du prix par les facteurs succeptibles de l'influencé.
+L'analyse de l'evolution des prix nous a permis de mettre en exergue, d'une part, l'existence d'une disparité des prix entre les hôtels ( certains hôtels pratiquent des prix plus élévés que d'autres). Et d'autre part, la presence d'une effet saisonnier sur les prix ( plus généralement, nous avons des prix élévés en weekend).
+Quant aux déterminants du prix, il ressort, que les prix augmentent lorsque l'hôtel est de type 4 ou 5 étoiles. on note par ailleurs que, certaines caractéristiques tellesque la richesse, la surété de l'arrondissement et la bonne qualité du service du personel influencent positivement les prix.
+
