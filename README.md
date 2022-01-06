@@ -33,7 +33,9 @@ Le notebook "Partie3.ipynb" regroupe une interrogation sur la représentativité
 - Enfin (Partie 3.4), nous effectuons des tests sur notre modèle de régression afin d'évaluer sa pertinence et sa robustesse.
 
 ## Conclusion : 
-L’objectif général de cette étude était d'analyser les facteurs déterminants des tarifs des hôtels parisiens. Pour atteindre, cet objectif,nous avons scrapé sur le site booking.com, des données sur l'évolution des tarifs et certaines caractéristiques des hôtels. Sur la base de ces données, deux approches principales ont été adoptés.D'abord, une analyse de l'evolution des prix. Ensuite,l'aide d'une regression linéaire multiple, une modelisation du prix par les facteurs succeptibles de l'influencé.
-L'analyse de l'evolution des prix nous a permis de mettre en exergue, d'une part, l'existence d'une disparité des prix entre les hôtels ( certains hôtels pratiquent des prix plus élévés que d'autres). Et d'autre part, la presence d'une effet saisonnier sur les prix ( plus généralement, nous avons des prix élévés en weekend).
-Quant aux déterminants du prix, il ressort, que les prix augmentent lorsque l'hôtel est de type 4 ou 5 étoiles. on note par ailleurs que, certaines caractéristiques tellesque la richesse, la surété de l'arrondissement et la bonne qualité du service du personel influencent positivement les prix.
 
+L’objectif général de cette étude était d'analyser les facteurs déterminants des tarifs des hôtels parisiens. Pour atteindre cet objectif, nous avons scrapé les données du site booking.com concernant l'évolution des tarifs des hôtels et certaines de leurs caractéristiques. A partir de ces données, deux approches principales ont été adoptées : 
+d'abord une analyse de l'evolution des prix ; ensuite, à l'aide d'une régression linéaire multiple, une modélisation du prix par les facteurs susceptibles de l'influencer.
+
+L'analyse de l'évolution des prix nous a permis de mettre en exergue, d'une part, l'existence d'une disparité des prix entre les hôtels (certains hôtels pratiquent des prix plus élevés que d'autres), d'autre part, la présence d'un effet saisonnier sur les prix (plus élévés pendant le weekend).
+Quant aux déterminants des prix, il ressort que ces derniers croissent avec le nombre d'étoiles de l'hôtel. On note par ailleurs que certaines caractéristiques telles que la richesse et la sûreté de l'arrondissement ainsi que la bonne qualité du service du personel influencent positivement les prix.
