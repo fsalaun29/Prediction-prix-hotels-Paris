@@ -4,9 +4,13 @@ Florian SALAUN, Yao Pacome KOUAME, Zeena SOW
 
 ## Problématique : Quels facteurs déterminent les tarifs des hôtels parisiens ? 
 
+## Introduction 
+...
+
 ## Partie 1 : Scraping des données à partir du site booking.com
 
-Le notebook "Partie 1.ipynb" est relatif au scraping des données des hôtels parisiens sur booking.com : 
+Les notebook "Partie1" et "Partie1 bis" sont relatifs au scraping des données des hôtels parisiens sur booking.com :
+"Partie1" correspond au code réellement utilisé pour obtenir les bases de données ; "Partie1 bis" en est une version réduite plus rapide à exécuter. 
 - Dans un premier temps (Partie 1.1), nous avons scrapé l'évolution des tarifs au cours du temps 
 - Dans un second temps (Partie 1.2), nous avons scrapé les caractéristiques des hôtels 
 
@@ -28,4 +32,5 @@ Le notebook "Partie 3.ipynb" regroupe une interrogation sur la représentativit�
 - Ensuite (Partie 3.3), nous avons construit un modèle de régression linéaire multiple afin d'analyser plus finement les effets des caractéristiques des hôtels sur leurs tarifs
 - Enfin (Partie 3.4), nous effectuons des tests sur notre modèle de régression afin d'évaluer sa pertinence et sa robustesse.
 
-
+## Conclusion : 
+...
