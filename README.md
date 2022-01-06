@@ -5,7 +5,11 @@ Florian SALAUN, Yao Pacome KOUAME, Zeena SOW
 ## Problématique : Quels facteurs déterminent les tarifs des hôtels parisiens ? 
 
 ## Introduction 
+Dans ce projet, nous avions réellement envie de ne pas utiliser des données "toutes prêtes" et de s'essayer au webscraping. Nous avons donc naturellement pensé aux comparateurs de vols, de restaurants ou encore d'hôtels qui donnent accés à des données statistiquement et économétriquement analysables. Nous avons essayé de scraper plusieurs site et avons finnalement réussi avec booking.com, qui est un comparateur d'hôtels. 
 
+Nous avons ensuite choisi de s'intérresser aux facteurs d'influence des tarifs des hôtels parisien uniquement, afin de restreindre le panel de critères et éviter les explications trop évidentes basées sur la ville où est situé l'hôtel. 
+
+Notre travail est sceindé en trois grandes parties, dont voici la descrition :
 
 ## Partie 1 : Scraping des données à partir du site booking.com
 
