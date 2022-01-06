@@ -5,11 +5,11 @@ Florian SALAUN, Yao Pacome KOUAME, Zeena SOW
 ## Problématique : Quels facteurs déterminent les tarifs des hôtels parisiens ? 
 
 ## Introduction 
-Dans ce projet, nous avions réellement envie de ne pas utiliser des données "toutes prêtes" et de s'essayer au webscraping. Nous avons donc naturellement pensé aux comparateurs de vols, de restaurants ou encore d'hôtels qui donnent accés à des données statistiquement et économétriquement analysables. Nous avons essayé de scraper plusieurs site et avons finnalement réussi avec booking.com, qui est un comparateur d'hôtels. 
+Dans ce projet, nous avions réellement envie de ne pas utiliser des données "toutes prêtes" et de nous essayer au webscraping. Nous avons donc naturellement pensé aux comparateurs de vols, de restaurants ou encore d'hôtels qui donnent accés à des données statistiquement et économétriquement analysables. Nous avons essayé de scraper plusieurs sites et avons finalement réussi avec Booking.com, qui est un comparateur d'hôtels. 
 
-Nous avons ensuite choisi de s'intérresser aux facteurs d'influence des tarifs des hôtels parisien uniquement, afin de restreindre le panel de critères et éviter les explications trop évidentes basées sur la ville où est situé l'hôtel. 
+Nous avons ensuite choisi de nous intéresser aux facteurs d'influence des tarifs des hôtels parisiens uniquement, afin de restreindre le panel de critères et éviter les explications trop évidentes basées sur la ville où est situé l'hôtel.
 
-Notre travail est sceindé en trois grandes parties, dont voici la descrition :
+Notre travail est scindé en trois grandes parties, dont voici la description :
 
 ## Partie 1 : Scraping des données à partir du site booking.com
 
@@ -36,10 +36,9 @@ Le notebook "Partie3" regroupe une interrogation sur la représentativité des d
 - Ensuite (Partie 3.3), nous avons construit un modèle de régression linéaire multiple afin d'analyser plus finement les effets des caractéristiques des hôtels sur leurs tarifs
 - Enfin (Partie 3.4), nous avons effecté des tests sur notre modèle de régression afin d'évaluer sa pertinence et sa robustesse
 
-## Conclusion : 
+## Conclusion :
 
-L’objectif général de cette étude était d'analyser les facteurs déterminants des tarifs des hôtels parisiens. Pour atteindre cet objectif, nous avons scrapé les données du site booking.com concernant l'évolution des tarifs des hôtels et certaines de leurs caractéristiques. A partir de ces données, deux approches principales ont été adoptées : 
-d'abord une analyse de l'evolution des prix ; ensuite, à l'aide d'une régression linéaire multiple, une modélisation du prix par les facteurs susceptibles de l'influencer.
+L’objectif de ce projet était d'analyser les facteurs déterminants des tarifs des hôtels parisiens. Pour atteindre cet objectif, nous avons scrapé les données du site Booking.com concernant l'évolution des tarifs des hôtels et certaines de leurs caractéristiques. À partir de ces données, deux approches principales ont été adoptées : 
+d'abord une analyse de l'évolution des prix sur une période d'un mois et demi ; ensuite, à l'aide d'une régression linéaire multiple, une modélisation du prix par les facteurs susceptibles de l'influencer.
 
-L'analyse de l'évolution des prix nous a permis de mettre en exergue, d'une part, l'existence d'une disparité des prix entre les hôtels (certains hôtels pratiquent des prix plus élevés que d'autres), d'autre part, la présence d'un effet saisonnier sur les prix (plus élévés pendant le weekend).
-Quant aux déterminants des prix, il ressort que ces derniers croissent avec le nombre d'étoiles de l'hôtel. On note par ailleurs que certaines caractéristiques telles que la richesse et la sûreté de l'arrondissement ainsi que la bonne qualité du service du personel influencent positivement les prix.
+L'analyse de l'évolution des prix nous a permis de mettre en exergue, d'une part, l'existence d'une disparité des prix entre les hôtels (certains hôtels, notamment les plus étoilés, affichent des prix plus élevés et qui fluctuent davantage dans le temps), et d'autre part, la présence d'un effet saisonnier sur les prix (qui sont plus élévés pendant le week-end et les périodes de fêtes). L'étude des déterminants des prix et la création d'un modèle de régression linéaire nous a permis de déceler certains facteurs qui semblent pousser les prix à la hausse, comme le fait d'avoir un grand nombre d'étoiles, de bonnes notes données par les clients ou le fait d'être dans un quartier ayant une bonne réputation. Nous avons enfin effectué quelques tests de validité de notre modèle, qui nous incitent à la prudence quant à l'interprétation des résultats qu'il fournit.
